@@ -432,7 +432,7 @@ class Completedprojects extends Component{
                   </div>
                 </div>
                 <div class="project-img">
-                  <img src="assets/img/gym.png" class='img-fluid w-100' alt=""/>
+                  <img src="assets/img/gym1.png" class='img-fluid w-100' alt=""/>
                 </div>
               </div>
           </div>
@@ -514,7 +514,7 @@ class Completedprojects extends Component{
                   </div>
                 </div>
                 <div class="project-img">
-                  <img src="assets/img/cdc.jpg" class='img-fluid' alt=""/>
+                  <img src="assets/img/cdc1.jpg" class='img-fluid' alt=""/>
                 </div>
               </div>
           </div>
@@ -590,7 +590,7 @@ class Completedprojects extends Component{
                   </div>
                 </div>
                 <div class="project-img">
-                  <img src="assets/img/acad.png" class='img-fluid' alt=""/>
+                  <img src="assets/img/acad1.png" class='img-fluid' alt=""/>
                 </div>
               </div>
           </div>
@@ -660,7 +660,7 @@ class Completedprojects extends Component{
                   </div>
                 </div>
                 <div class="project-img">
-                  <img src="assets/img/ipl.png" class='img-fluid' alt=""/>
+                  <img src="assets/img/ipl1.png" class='img-fluid' alt=""/>
                 </div>
               </div>
           </div>
