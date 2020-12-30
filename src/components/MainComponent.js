@@ -4,8 +4,10 @@ import Design from './design';
 import Web from './web';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import { render } from '@testing-library/react';
-import Dashboard from './dashboard';
-import Final from './events';
+
+
+import Project from './webs'
+
 
 
 
@@ -21,8 +23,10 @@ class Main extends Component{
        return(
       <div style={{backgroundColor:'#191919'}}>
         
-      <Web />
+         
+      <Project />
       <Design />
+      
       
       
       
@@ -34,4 +38,5 @@ class Main extends Component{
 }
 
 export default Main;
+
   
