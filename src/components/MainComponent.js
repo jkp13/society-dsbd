@@ -24,7 +24,7 @@ class Main extends Component{
       <div style={{backgroundColor:'#191919'}}>
         
          
-      <Project />
+      <Web />
       <Design />
       
       

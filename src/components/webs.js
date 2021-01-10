@@ -38,7 +38,7 @@ class Ongoingprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/societywebsite.jpg" class='img-fluid'alt="" />
+                        <img src="assets/img/societywebsite.jpg" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -47,10 +47,10 @@ class Ongoingprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Website for Web and Design Society</h3>
-                      <p class="project-detail-content">This is it, LOL ! We would be adding a lot more features in it.</p>
+                      <h3 class="project-detail-title my-4">Website for Web and Design Society</h3>
+                      <p class="project-detail-content my-4">This is it, LOL ! We would be adding a lot more features in it.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                           <div class="col-3 col-sm-3 col-md-3">
                             <div class="tech">
                               <span>React.js</span>
@@ -121,7 +121,7 @@ class Ongoingprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/olx.jpg" class='img-fluid'alt="" />
+                        <img src="assets/img/olx.jpg" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -130,10 +130,10 @@ class Ongoingprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Local olx</h3>
-                      <p class="project-detail-content">The students can sell their belongings among students who want it at a lower price.</p>
+                      <h3 class="project-detail-title my-4">Local olx</h3>
+                      <p class="project-detail-content my-4">The students can sell their belongings among students who want it at a lower price.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-3 col-sm-3 col-md-3">
                             <div class="tech">
                               <span>React.js</span>
@@ -195,7 +195,7 @@ class Ongoingprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/quora.jpg" class='img-fluid'alt="" />
+                        <img src="assets/img/quora.jpg" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -204,10 +204,10 @@ class Ongoingprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Intra Quora</h3>
-                      <p class="project-detail-content">Where students can ask questions on any topic about the institute and answer the questions posted by their peers.</p>
+                      <h3 class="project-detail-title my-4">Intra Quora</h3>
+                      <p class="project-detail-content my-4">Where students can ask questions on any topic about the institute and answer the questions posted by their peers.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-3 col-sm-3 col-md-3">
                             <div class="tech">
                               <span>React.js</span>
@@ -250,7 +250,7 @@ class Ongoingprojects extends Component{
           <div class="project px-4">
                 <div class="project-content">
                   <div class="project-heading">
-                    <h3 class="project-heading-title">Live Quiz Multiplayer</h3>
+                    <h3 class="project-heading-title" style={{fontSize:'35px'}}>Live Quiz Multiplayer</h3>
                     <p></p>
                   </div>
                   <div class="learn-more">
@@ -269,7 +269,7 @@ class Ongoingprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/quiz.jpg" class='img-fluid'alt="" />
+                        <img src="assets/img/quiz.jpg" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -278,10 +278,10 @@ class Ongoingprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Live Quiz Multiplayer</h3>
-                      <p class="project-detail-content">A quizzing app where you can take up quizzes and challenge your friends.</p>
+                      <h3 class="project-detail-title my-4">Live Quiz Multiplayer</h3>
+                      <p class="project-detail-content my-4">A quizzing app where you can take up quizzes and challenge your friends.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-3 col-sm-3 col-md-3">
                             <div class="tech">
                               <span>React.js</span>
@@ -342,7 +342,7 @@ class Ongoingprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/travel.jpg" class='img-fluid'alt="" />
+                        <img src="assets/img/travel.jpg" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -351,10 +351,10 @@ class Ongoingprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Travel Companion</h3>
-                      <p class="project-detail-content">You can share the fare with the fellow students who wish take the same path of journey, thereby making their travel economical.</p>
+                      <h3 class="project-detail-title my-4">Travel Companion</h3>
+                      <p class="project-detail-content my-4">You can share the fare with the fellow students who wish take the same path of journey, thereby making their travel economical.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-3 col-sm-3 col-md-3">
                             <div class="tech">
                               <span>React.js</span>
@@ -443,7 +443,7 @@ class Completedprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/gym.png" class='img-fluid'alt="" />
+                        <img src="assets/img/gym.png" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -452,10 +452,10 @@ class Completedprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Gymkhana, IIT BBS</h3>
-                      <p class="project-detail-content">It contains information about the gymkhana like what is it, its constitution, the student activity centre, the happenings at the fests, societies of the gymkhana and much more.. !.</p>
+                      <h3 class="project-detail-title my-4">Gymkhana, IIT BBS</h3>
+                      <p class="project-detail-content my-4">It contains information about the gymkhana like what is it, its constitution, the student activity centre, the happenings at the fests, societies of the gymkhana and much more.. !.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-3 col-sm-3 col-md-3">
                             <div class="tech">
                               <span>PHP</span>
@@ -526,7 +526,7 @@ class Completedprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/cdc.jpg" class='img-fluid'alt="" />
+                        <img src="assets/img/cdc.jpg" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -535,10 +535,10 @@ class Completedprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">CDC-IITBBS</h3>
-                      <p class="project-detail-content">This website highlights the placement details of our campus and helps the students register to companies for their internships and Placements.</p>
+                      <h3 class="project-detail-title my-4">CDC-IITBBS</h3>
+                      <p class="project-detail-content my-4">This website highlights the placement details of our campus and helps the students register to companies for their internships and Placements.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-3 col-sm-3 col-md-3">
                             <div class="tech">
                               <span>Bootstrap</span>
@@ -600,7 +600,7 @@ class Completedprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/acad.png" class='img-fluid'alt="" />
+                        <img src="assets/img/acad.png" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -609,10 +609,10 @@ class Completedprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Acad council</h3>
-                      <p class="project-detail-content">This website contains information which is much needed by campus dwellers for academic purposes.</p>
+                      <h3 class="project-detail-title my-4">Acad council</h3>
+                      <p class="project-detail-content my-4">This website contains information which is much needed by campus dwellers for academic purposes.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-4 col-sm-4 col-md-3">
                             <div class="tech">
                               <span>React.js</span>
@@ -670,7 +670,7 @@ class Completedprojects extends Component{
                   <div class="modal-contents-data">
                     <div class="owl-carousel owl-theme">
                       <div class="item">
-                        <img src="assets/img/ipl.png" class='img-fluid'alt="" />
+                        <img src="assets/img/ipl.png" class='img-fluid mb-4'alt="" />
                       </div>
                       
                     </div>
@@ -679,10 +679,10 @@ class Completedprojects extends Component{
                       <span aria-hidden="true">&times;</span>
                     </button>
                     <div class="project-detail">
-                      <h3 class="project-detail-title">Intense Prediction League (in collaboration with Ashvamedha)</h3>
-                      <p class="project-detail-content">It is a fantasy league organised during the IPL season in association with Ashvamedha, the sports fest of IIT Bhubaneswar.</p>
+                      <h3 class="project-detail-title my-4">Intense Prediction League (in collaboration with Ashvamedha)</h3>
+                      <p class="project-detail-content my-4">It is a fantasy league organised during the IPL season in association with Ashvamedha, the sports fest of IIT Bhubaneswar.</p>
                       <div class="container project-technology">
-                        <div class="row justify-content-center text-center">
+                        <div class="row justify-content-center text-center my-4">
                         <div class="col-4 col-sm-4 col-md-3">
                             <div class="tech">
                               <span>JavaScript</span>
