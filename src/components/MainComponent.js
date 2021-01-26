@@ -4,6 +4,7 @@ import Design from './design';
 import Web from './web';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import { render } from '@testing-library/react';
+import Dshbrd from './dashboardmain';
 
 
 import Project from './webs'
@@ -24,8 +25,8 @@ class Main extends Component{
       <div style={{backgroundColor:'#191919'}}>
         
          
-      <Web />
-      <Design />
+      
+      <Dshbrd />
       
       
       

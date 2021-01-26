@@ -143,7 +143,7 @@ class Web extends Component{
         const list = this.state.datas.map((data) => {
             return(
                 <div className='col-12 col-md-6 col-lg-3 p-3' key={data.id}>
-                <Card color='dark' class='cardht'  style={{height:'430px'}}>
+                <Card color='dark' className='cardht'  style={{height:'430px'}}>
                   <img width="100%" src={data.image} alt="For example" height="210px" />
                   <CardBody>
                   <CardTitle tag="h5" ><a href='#' style={{color:'#fe3265'}}>{data.title}</a></CardTitle>
