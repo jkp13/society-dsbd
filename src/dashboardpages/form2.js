@@ -66,7 +66,7 @@ class ContactForm extends React.Component {
   class MainTitle extends React.Component {
     render(){
       return(
-        <h1>React Form example</h1>
+        <h1>Form 2</h1>
       )
     }
   }

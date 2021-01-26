@@ -11,6 +11,7 @@ import Week2 from '../dashboardpages/page3';
 import Form1 from '../dashboardpages/form1';
 
 
+
 function Side() {
   const [sidebar, setSidebar] = useState(true);
 
@@ -58,6 +59,7 @@ function Dshbrd(){
        <Route path='/' exact component={Home} />
        <Route path='/Week1' component={Week1} />
        <Route path='/Week2' component={Week2} />
+       
        
        </Switch>
        </BrowserRouter>

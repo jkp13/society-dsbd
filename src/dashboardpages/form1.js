@@ -56,7 +56,7 @@ class ContactForm extends React.Component {
               <label for="qfive">Question 5</label>
               <textarea  name="qfive" type="text" value={this.state.qfive} onChange={this.handleChange} className="form-control" id="qfive"  />
             </div>
-            <input type="submit" value="Submit" className="btn btn-primary" />
+            <input type="submit" value="Submit" className="btn btn-primary"  />
           </form>
         </div>
       )
@@ -66,7 +66,7 @@ class ContactForm extends React.Component {
   class MainTitle extends React.Component {
     render(){
       return(
-        <h1>React Form example</h1>
+        <h1>Form 1</h1>
       )
     }
   }
@@ -74,9 +74,13 @@ class ContactForm extends React.Component {
   class Form1 extends React.Component {
     render(){
       return(
-        <div>
+        <div class='row' style={{color:'#fe3265'}}>
+          <div class='col-4 offset-5'>
           <MainTitle/>
+          </div>
+          <div class='offset-3 col-6'>
           <ContactForm/>
+          </div>
         </div>
       )
     }
